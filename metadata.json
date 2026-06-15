@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "A feature-rich Pomodoro Productivity Timer featuring a stunning cyberpunk neon aesthetic, Web Audio synthesized alert sounds, task tracking, and detailed productivity session statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
