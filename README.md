@@ -1,4 +1,4 @@
-# 🍅 Pomodoro Timer
+# Pomodoro Timer
 
 A simple Pomodoro Timer web app built with Google AI Studio and deployed to Cloud Run. Helps you manage focus sessions and breaks using the Pomodoro technique, with a clean, minimal interface for tracking work intervals.
 
